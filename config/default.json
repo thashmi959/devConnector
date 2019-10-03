@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://arshcodes:Htarique@123@cluster0-glt2d.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "tariquewasihashmi",
+  "githubClientId": "4500832ac6b517672ba9",
+  "githubSecret": "97f45031078793a2fd2abd48501ad6f0f8413d34"
+}
